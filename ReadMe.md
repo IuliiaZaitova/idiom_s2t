@@ -4,7 +4,7 @@ This repository accompanies our ACL 2025 paper:
 **"It's Not a Walk in the Park! Challenges of Idiom Translation in Speech-to-text Systems"**  
 by Iuliia Zaitova, Badr M. Abdullah, Wei Xue, Dietrich Klakow, Bernd Möbius, and Tania Avgustinova.
 
-[📜 Paper (Camera-ready)][to add]  
+[📜 Paper (Camera-ready)](https://arxiv.org/abs/2506.02995) \
 📍 Presented at ACL 2025, Vienna  
 📧 Contact: [izaitova@lsv.uni-saarland.de](mailto:izaitova@lsv.uni-saarland.de)
 
