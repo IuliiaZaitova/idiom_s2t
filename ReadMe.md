@@ -24,14 +24,14 @@ We analyze:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
-├── comet_scores/ # Automatic evaluation outputs using COMET
-├── decoderlens/ # Layer-wise analysis results using DecoderLens
-├── dataset/ # Input sentences for News and Idioms (EN-DE and EN-RU)
-├── plots/ # Figures and charts used in the paper
-├── transcriptions/ # ASR outputs for TTS inputs
-├── translations/ # Outputs from SLT, MT, and LLMs
+├── comet_scores/ # Automatic evaluation outputs using COMET \
+├── decoderlens/ # Layer-wise analysis results using DecoderLens \
+├── dataset/ # Input sentences for News and Idioms (EN-DE and EN-RU) \
+├── plots/ # Figures and charts used in the paper \
+├── transcriptions/ # ASR outputs for TTS inputs \
+├── translations/ # Outputs from SLT, MT, and LLMs 
 
 
 If you use this work, please cite:
