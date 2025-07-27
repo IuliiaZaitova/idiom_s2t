@@ -12,7 +12,7 @@ by Iuliia Zaitova, Badr M. Abdullah, Wei Xue, Dietrich Klakow, Bernd Möbius, an
 
 ## Overview
 
-This project investigates how current speech-to-text translation (SLT) systems handle non-compositional, figurative language—particularly idioms. We compare SLT systems (e.g., Whisper, SeamlessM4T) with text-based MT and LLMs on both news and idiomatic content across two language pairs:
+This project investigates how current speech-to-text translation (SLT) systems handle idiomatic expressions. We compare SLT systems (e.g., Whisper, SeamlessM4T) with text-based MT and LLMs on both news and idiomatic content across two language pairs:
 
 - German → English
 - Russian → English
@@ -20,7 +20,7 @@ This project investigates how current speech-to-text translation (SLT) systems h
 We analyze:
 - **COMET scores** (automatic evaluation),
 - **Human-labeled translation quality**, and
-- **DecoderLens** attention traces for interpretability.
+- **DecoderLens** layer-by-layer analysis for interpretability.
 
 ---
 
