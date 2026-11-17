@@ -1,1 +1,1 @@
-"""Command-line tools for the idiom speech-to-text translation release."""
+"""Evaluation utilities for the idiom speech-to-text translation release."""

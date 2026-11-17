@@ -1,6 +1,6 @@
-Line Number	Encoder Layer	Translation
+Audio File	Layer Index	Translation
 "Es ist mir wurst, wenn du nicht kommst.
-"	0	in a. in a. in a. in a. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+"	0	in a. in a. in a. in a. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 "Es ist mir wurst, wenn du nicht kommst.
 "	1	It's not my job.
 "Es ist mir wurst, wenn du nicht kommst.
@@ -200,7 +200,7 @@ Line Number	Encoder Layer	Translation
 "Er hatte Bock auf einen guten Salat.
 "	24	He had a goose for a good salad.
 "Hat er das wirklich getan? Ich glaube, ich spinne.
-"	0	in a t. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+"	0	in a t. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 "Hat er das wirklich getan? Ich glaube, ich spinne.
 "	1	I know what I know.
 "Hat er das wirklich getan? Ich glaube, ich spinne.
@@ -450,7 +450,7 @@ Line Number	Encoder Layer	Translation
 "Die frechen Kinder tanzen den Erwachsenen auf der Nase herum.
 "	24	The naughty children dance around the adults' noses.
 "Du wirst mir sicher nicht auf der Nase herumtanzen!
-"	0	You'll be sure to get your own! !! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+"	0	You'll be sure to get your own! !! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
 "Du wirst mir sicher nicht auf der Nase herumtanzen!
 "	1	You'll be on your own!
 "Du wirst mir sicher nicht auf der Nase herumtanzen!
@@ -1052,7 +1052,7 @@ Line Number	Encoder Layer	Translation
 "Wenn er nicht kooperiert, werde ich ihm einen Denkzettel verpassen.
 "	0	a n a similar, i.
 "Wenn er nicht kooperiert, werde ich ihm einen Denkzettel verpassen.
-"	1	If I'm not going to be a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-
+"	1	If I'm not going to be a-a-a-a-a-a-a-a-a-a-
 "Wenn er nicht kooperiert, werde ich ihm einen Denkzettel verpassen.
 "	2	I will not beating him.
 "Wenn er nicht kooperiert, werde ich ihm einen Denkzettel verpassen.
@@ -1158,7 +1158,7 @@ Line Number	Encoder Layer	Translation
 "Sie stritten und in ihrem Haus herrschte dicke Luft.
 "	3	They went to the only girl in the same house.
 "Sie stritten und in ihrem Haus herrschte dicke Luft.
-"	4	They were in their house, and they were in their house, and they were in their house, and they were in their house, and they were in their house, and they were in their house.
+"	4	They were in their house, and they were in their house, and they were in their house, and they were in their house, and
 "Sie stritten und in ihrem Haus herrschte dicke Luft.
 "	5	They were struggling and in their house, there was a thick air.
 "Sie stritten und in ihrem Haus herrschte dicke Luft.
@@ -1300,7 +1300,7 @@ Line Number	Encoder Layer	Translation
 "Stefan war der wahre Drahtzieher der Aktion.
 "	24	Stefan was the real mastermind of the action.
 "Wer ist wohl der Drahtzieher hinter allem?
-"	0	Is it the same?                       ?
+"	0	Is it the same?            
 "Wer ist wohl der Drahtzieher hinter allem?
 "	1	Is it the only thing to do?
 "Wer ist wohl der Drahtzieher hinter allem?
@@ -1350,7 +1350,7 @@ Line Number	Encoder Layer	Translation
 "Wer ist wohl der Drahtzieher hinter allem?
 "	24	Who do you think is behind all this?
 "Der hat doch sicher Dreck am Stecken.
-"	0	I am sure that you have the same.            . . .
+"	0	I am sure that you have the same.           
 "Der hat doch sicher Dreck am Stecken.
 "	1	I'd like to have a coffee.
 "Der hat doch sicher Dreck am Stecken.
@@ -1402,7 +1402,7 @@ Line Number	Encoder Layer	Translation
 "Er ist mir nicht geheuer, weil der sicher Dreck am Stecken hat.
 "	0	in a way of a.
 "Er ist mir nicht geheuer, weil der sicher Dreck am Stecken hat.
-"	1	He's not the dog, he's the dog, he's the dog, he's the dog, he's the dog.
+"	1	He's not the dog, he's the dog, he's the dog, he's the dog, he's
 "Er ist mir nicht geheuer, weil der sicher Dreck am Stecken hat.
 "	2	I' I' -
 "Er ist mir nicht geheuer, weil der sicher Dreck am Stecken hat.
@@ -1500,7 +1500,7 @@ Line Number	Encoder Layer	Translation
 "Das Lob ging runter wie Öl.
 "	24	The praise went down like oil.
 "So eine tolle Resonanz beim Publikum geht runter wie Öl.
-"	0	A person has a degree. - A.M. - A.M. - A.M. - A.M. - has a.
+"	0	A person has a degree. - A.M. - A.M. - A.M. - A.M. - has
 "So eine tolle Resonanz beim Publikum geht runter wie Öl.
 "	1	So, how's it going with the public?
 "So eine tolle Resonanz beim Publikum geht runter wie Öl.
@@ -1600,11 +1600,11 @@ Line Number	Encoder Layer	Translation
 "Ich weiß nicht mehr weiter. Hier ist Ende im Gelände.
 "	24	I don't know what to do anymore.
 "Das war's: Ende im Gelände.
-"	0	's: I's in: I's in: I's in: I's in: I's in: I's in: I's in: I's in: I's in:
+"	0	's: I's in: I's in: I's in: I's in: I's in
 "Das war's: Ende im Gelände.
 "	1	I'm going to the--
 "Das war's: Ende im Gelände.
-"	2	- It' Hier.
+"	2	- It'
 "Das war's: Ende im Gelände.
 "	3	It's a beautiful day in a beautiful town.
 "Das war's: Ende im Gelände.
@@ -1700,9 +1700,9 @@ Line Number	Encoder Layer	Translation
 "Wenn es dir nicht passt, kannst du dich beim Salzamt beschweren.
 "	24	If you don't like it, you can complain to the salt collector.
 "Beschwer dich doch beim Salzamt!
-"	0	Become! ! ! ! ! ! ! ! ! !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+"	0	Become! ! ! ! ! ! ! ! ! 
 "Beschwer dich doch beim Salzamt!
-"	1	I'm not a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a now!
+"	1	I'm not a-a-a-a-a-a-a-a-a-a-a-a-
 "Beschwer dich doch beim Salzamt!
 "	2	- What?
 "Beschwer dich doch beim Salzamt!
@@ -1852,7 +1852,7 @@ Line Number	Encoder Layer	Translation
 "Es ist Jacke wie Hose, was ich zu dir sage.
 "	0	in a t. in a. in a.
 "Es ist Jacke wie Hose, was ich zu dir sage.
-"	1	It's like I'm in a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a- now, now is it your-a-a-a-a-a-a-a-a
+"	1	It's like I'm in a-a-a-a-a-a-a-a-a-a-
 "Es ist Jacke wie Hose, was ich zu dir sage.
 "	2	I' -
 "Es ist Jacke wie Hose, was ich zu dir sage.
@@ -2000,7 +2000,7 @@ Line Number	Encoder Layer	Translation
 "Er ging mir dermaßen auf den Keks, dass ich ihn rausschmiss.
 "	24	I was so mad at him, I threw him out.
 "Geh mir doch nicht so auf den Keks!
-"	0	Not so easy! on your soap! on your! so not so easy! so not so easy! on your! now! on your!
+"	0	Not so easy! on your soap! on your! so not so easy! so not so easy! on your! now! on
 "Geh mir doch nicht so auf den Keks!
 "	1	I'm not in the fuckin' now!
 "Geh mir doch nicht so auf den Keks!
@@ -2050,7 +2050,7 @@ Line Number	Encoder Layer	Translation
 "Geh mir doch nicht so auf den Keks!
 "	24	Don't give me that crap!
 "Wir werden das Kind schon schaukeln.
-"	0	We are already in-demand-to-do-it-a-s-a-s-a-s-a-a-a-s-a-a-s-a-s. is is the.
+"	0	We are already in-demand-to-do-it-a-s-a-s-a-s-a-
 "Wir werden das Kind schon schaukeln.
 "	1	We are.
 "Wir werden das Kind schon schaukeln.
@@ -2256,7 +2256,7 @@ Line Number	Encoder Layer	Translation
 "Wir sollten die Kirche im Dorf lassen und erstmal abwarten.
 "	2	We should go to the
 "Wir sollten die Kirche im Dorf lassen und erstmal abwarten.
-"	3	We were to a-t-in-t-t-an in a-t-an in a-t-an in a-t-an in a-t-an in a-t-an in a-t-an
+"	3	We were to a-t-in-t-t-an in a-t-an in a-t-an in a
 "Wir sollten die Kirche im Dorf lassen und erstmal abwarten.
 "	4	We should leave the church and wait.
 "Wir sollten die Kirche im Dorf lassen und erstmal abwarten.
@@ -2300,7 +2300,7 @@ Line Number	Encoder Layer	Translation
 "Wir sollten die Kirche im Dorf lassen und erstmal abwarten.
 "	24	We should leave the church in the village and wait for the time to come.
 "Du übertreibst. Lass doch die Kirche im Dorf.
-"	0	the the the.s.s.s.s.s.s.s.s.s.s.s.s.s.s.s.s only.s.s.s.s.
+"	0	the the the.s.s.s.s.s.s.s.s.s.s.s.s.
 "Du übertreibst. Lass doch die Kirche im Dorf.
 "	1	You can have the coffee.
 "Du übertreibst. Lass doch die Kirche im Dorf.
@@ -2400,11 +2400,11 @@ Line Number	Encoder Layer	Translation
 "Wenn du hier lang fährst, fährst du mit der Kirche ums Kreuz.
 "	24	If you drive through here, you'll be driving around the church.
 "Wir haben keine Zeit, um mit der Kirche ums Kreuz zu fahren.
-"	0	in a formering. in a _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+"	0	in a formering. in a _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 "Wir haben keine Zeit, um mit der Kirche ums Kreuz zu fahren.
 "	1	We have to go to the other side of the street.
 "Wir haben keine Zeit, um mit der Kirche ums Kreuz zu fahren.
-"	2	We' Ich ist hier.
+"	2	We'
 "Wir haben keine Zeit, um mit der Kirche ums Kreuz zu fahren.
 "	3	We'll go to the
 "Wir haben keine Zeit, um mit der Kirche ums Kreuz zu fahren.
@@ -2458,9 +2458,9 @@ Line Number	Encoder Layer	Translation
 "Wen du auch kennenlernst, jeder hat sein Päckchen zu tragen.
 "	3	You know what a's it's like to be a girl.
 "Wen du auch kennenlernst, jeder hat sein Päckchen zu tragen.
-"	4	You know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know.
+"	4	You know, you know, you know, you know, you know, you know, you know, you know, you know, you
 "Wen du auch kennenlernst, jeder hat sein Päckchen zu tragen.
-"	5	You know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know.
+"	5	You know, you know, you know, you know, you know, you know, you know, you know, you know, you
 "Wen du auch kennenlernst, jeder hat sein Päckchen zu tragen.
 "	6	Who you know, everyone has his own bag.
 "Wen du auch kennenlernst, jeder hat sein Päckchen zu tragen.
@@ -2650,7 +2650,7 @@ Line Number	Encoder Layer	Translation
 "Vergiss nicht, dass auch Kleinvieh Mist macht.
 "	24	Don't forget that small livestock also make shit.
 "Hier drinnen sieht es aus wie Kraut und Rüben!
-"	0	He sees it! ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
+"	0	He sees it! ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
 "Hier drinnen sieht es aus wie Kraut und Rüben!
 "	1	Here, it is like to see you and a girl!
 "Hier drinnen sieht es aus wie Kraut und Rüben!
@@ -2702,7 +2702,7 @@ Line Number	Encoder Layer	Translation
 "Das Kleid sieht wie Kraut und Rüben aus.
 "	0	The same as the same. The same.
 "Das Kleid sieht wie Kraut und Rüben aus.
-"	1	I'm not in a now and I'm out of a now and I'm out of a now and I'm out of a now and I'm out of a now and I'm in a now and I'm in a now and I'm in a now and I'm in a now and I'm in a now and I'm in a now and I'm in a now and I'm in a now.
+"	1	I'm not in a now and I'm out of a now and I'm out of a now and I'm out
 "Das Kleid sieht wie Kraut und Rüben aus.
 "	2	- What?
 "Das Kleid sieht wie Kraut und Rüben aus.
@@ -3050,7 +3050,7 @@ Line Number	Encoder Layer	Translation
 "Nach den Aussagen der Schüler geriet der Lehrer ins Kreuzfeuer.
 "	24	According to the students' accounts, the teacher was caught in the crossfire.
 "Er schob auf der Arbeit eine ruhige Kugel.
-"	0	Erge is a bit of a bit of a Erge. Erge is a bit of a erge. Erge is a bit of a.
+"	0	Erge is a bit of a bit of a Erge. Erge is a bit of a erge. Erge is a bit
 "Er schob auf der Arbeit eine ruhige Kugel.
 "	1	He's got a job to do.
 "Er schob auf der Arbeit eine ruhige Kugel.
@@ -3402,7 +3402,7 @@ Line Number	Encoder Layer	Translation
 "Wenn genug Zeit verstreicht, kann Gras über die Sache wachsen.
 "	0	in a once more, I.
 "Wenn genug Zeit verstreicht, kann Gras über die Sache wachsen.
-"	1	If you can, the thing to do is, the only thing to do is, the only thing to do is, the only thing to do is,
+"	1	If you can, the thing to do is, the only thing to do is, the only thing to do is, the only thing to
 "Wenn genug Zeit verstreicht, kann Gras über die Sache wachsen.
 "	2	If I know what I'
 "Wenn genug Zeit verstreicht, kann Gras über die Sache wachsen.
@@ -3550,7 +3550,7 @@ Line Number	Encoder Layer	Translation
 "An Petras Geschichte ist nichts dran, die ist doch an den Haaren herbeigezogen.
 "	24	Petra's story is a lie, but it's a lie.
 "Er musste einen Gang herunterschalten, um nicht in den Burn-out zu schlittern.
-"	0	in a-n-a-n-a-n-a-n-a-n-a-n-a-n-a-n-a
+"	0	in a-n-a-n-a-n-a-n-a-n-a-n-a-n
 "Er musste einen Gang herunterschalten, um nicht in den Burn-out zu schlittern.
 "	1	He had to stop.
 "Er musste einen Gang herunterschalten, um nicht in den Burn-out zu schlittern.
@@ -3600,7 +3600,7 @@ Line Number	Encoder Layer	Translation
 "Er musste einen Gang herunterschalten, um nicht in den Burn-out zu schlittern.
 "	24	He had to lower a gear to avoid sliding into the burn-out.
 "Für Inge wurde es Zeit, einen Gang herunterzuschalten.
-"	0	in a fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur
+"	0	in a fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur
 "Für Inge wurde es Zeit, einen Gang herunterzuschalten.
 "	1	I'd like to have a drink.
 "Für Inge wurde es Zeit, einen Gang herunterzuschalten.
@@ -3652,7 +3652,7 @@ Line Number	Encoder Layer	Translation
 "Das Projekt steckt noch in den Kinderschuhen.
 "	0	I have the same problem. in the I.T.
 "Das Projekt steckt noch in den Kinderschuhen.
-"	1	I'd like to see you in a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-an-an-a-an-a-an-a-an-a-an-a-an-a-an-a-an-a-an-a-an-a-an-an- now now now
+"	1	I'd like to see you in a-a-a-a-a-a-a-a-a-a-
 "Das Projekt steckt noch in den Kinderschuhen.
 "	2	- I -
 "Das Projekt steckt noch in den Kinderschuhen.
@@ -4052,7 +4052,7 @@ Line Number	Encoder Layer	Translation
 "Das lässt mir das Blut in den Adern gefrieren.
 "	0	I have to be in the same. - I have to be.
 "Das lässt mir das Blut in den Adern gefrieren.
-"	1	I'm not a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a- Das ist jetzt noch noch meine meine ich.
+"	1	I'm not a-a-a-a-a-a-a-a-a-a-a-a-
 "Das lässt mir das Blut in den Adern gefrieren.
 "	2	I' Das.
 "Das lässt mir das Blut in den Adern gefrieren.
@@ -4150,11 +4150,11 @@ Line Number	Encoder Layer	Translation
 "Der Film lässt ihm das Blut in den Adern gefrieren.
 "	24	The film is making his blood run cold.
 "Du vergleichst hier ja Äpfel mit Birnen!
-"	0	With a!p!p!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+"	0	With a!p!p!!!!!!!!!!!!!!!!!!!!!!
 "Du vergleichst hier ja Äpfel mit Birnen!
 "	1	You're not a cop!
 "Du vergleichst hier ja Äpfel mit Birnen!
-"	2	- ( - !
+"	2	- (
 "Du vergleichst hier ja Äpfel mit Birnen!
 "	3	- Ah!
 "Du vergleichst hier ja Äpfel mit Birnen!
@@ -4208,7 +4208,7 @@ Line Number	Encoder Layer	Translation
 "Das wäre ja so, als würdest du Äpfel mit Birnen vergleichen.
 "	3	It'd be a great place to meet a girl.
 "Das wäre ja so, als würdest du Äpfel mit Birnen vergleichen.
-"	4	That would be like you were going to be like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like, like
+"	4	That would be like you were going to be like, like, like, like, like, like, like, like, like, like
 "Das wäre ja so, als würdest du Äpfel mit Birnen vergleichen.
 "	5	That would be like you were comparing apples to pears.
 "Das wäre ja so, als würdest du Äpfel mit Birnen vergleichen.
@@ -4250,9 +4250,9 @@ Line Number	Encoder Layer	Translation
 "Das wäre ja so, als würdest du Äpfel mit Birnen vergleichen.
 "	24	That's like comparing apples to pears.
 "Wir haben uns verfahren und sind jetzt am Arsch der Welt!
-"	0	It's also one of the best! - und! und! und! und! und! und! und! und! und!! und! und!! und!! und! und!!! und!!!!!!!!! und!!!!!!!!!!!!!!!!!!
+"	0	It's also one of the best! - und! und! und! und! und! und! und! und! und!
 "Wir haben uns verfahren und sind jetzt am Arsch der Welt!
-"	1	We are the only ones who have a fucking job in the­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
+"	1	We are the only ones who have a fucking job in the­­­­­­­­­­­­­­­­
 "Wir haben uns verfahren und sind jetzt am Arsch der Welt!
 "	2	I' Jetzt!
 "Wir haben uns verfahren und sind jetzt am Arsch der Welt!
@@ -4350,7 +4350,7 @@ Line Number	Encoder Layer	Translation
 "Wieso führst du mich an den Arsch der Welt?
 "	24	Why are you leading me to the ass of the world?
 "Es wäre besser, wenn du den Ball flach halten würdest.
-"	0	in a mixer, in a once more _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+"	0	in a mixer, in a once more _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 "Es wäre besser, wenn du den Ball flach halten würdest.
 "	1	It would be better if you were to keep the balls.
 "Es wäre besser, wenn du den Ball flach halten würdest.
@@ -4400,7 +4400,7 @@ Line Number	Encoder Layer	Translation
 "Es wäre besser, wenn du den Ball flach halten würdest.
 "	24	It would be better if you kept the ball flat.
 "Er hielt den Ball flach und versteckte sich.
-"	0	Errata und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und.
+"	0	Errata und und und und und und und und und und und und und und und und und und und und und und und und und und
 "Er hielt den Ball flach und versteckte sich.
 "	1	I'm not sure I'd like to see him.
 "Er hielt den Ball flach und versteckte sich.
@@ -4450,7 +4450,7 @@ Line Number	Encoder Layer	Translation
 "Er hielt den Ball flach und versteckte sich.
 "	24	He held the ball flat and hid.
 "Schieb das nicht auf die lange Bank und erledige es gleich.
-"	0	Not the same as the und und put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put
+"	0	Not the same as the und und put put put put put put put put put put put put put put put put put put put put put
 "Schieb das nicht auf die lange Bank und erledige es gleich.
 "	1	Not the bank and it's not the same.
 "Schieb das nicht auf die lange Bank und erledige es gleich.
@@ -4502,7 +4502,7 @@ Line Number	Encoder Layer	Translation
 "Du schiebst deine Hausarbeiten wieder auf die lange Bank.
 "	0	The table was again on your own. the. the. your. your.
 "Du schiebst deine Hausarbeiten wieder auf die lange Bank.
-"	1	You'll have to work on the- - the- - the- - the- - the- - the- - the- - the- - the- -
+"	1	You'll have to work on the- - the- - the- - the- - the- - the- - the- -
 "Du schiebst deine Hausarbeiten wieder auf die lange Bank.
 "	2	I Jetzt jetzt.
 "Du schiebst deine Hausarbeiten wieder auf die lange Bank.
@@ -4602,7 +4602,7 @@ Line Number	Encoder Layer	Translation
 "Phillipp bekommt nichts und schaut schon wieder durch die Finger.
 "	0	The same as the F. und the same. the same. the same.
 "Phillipp bekommt nichts und schaut schon wieder durch die Finger.
-"	1	I'm not going to theat­ing to have a single­­­­­a­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
+"	1	I'm not going to theat­ing to have a single­­­­­a­­­­­­­­
 "Phillipp bekommt nichts und schaut schon wieder durch die Finger.
 "	2	And I -
 "Phillipp bekommt nichts und schaut schon wieder durch die Finger.
@@ -4700,11 +4700,11 @@ Line Number	Encoder Layer	Translation
 "Die Party ist ein Wahnsinn, hier steppt ja richtig der Bär.
 "	24	This party is crazy, this is where the bear really gets his kicks.
 "Ich möchte endlich wieder auf eine Feier, wo der Bär steppt.
-"	0	in a simple, I. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+"	0	in a simple, I. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 "Ich möchte endlich wieder auf eine Feier, wo der Bär steppt.
 "	1	I want to be a little more active.
 "Ich möchte endlich wieder auf eine Feier, wo der Bär steppt.
-"	2	I have a Ich habe ich.
+"	2	I have a Ich habe
 "Ich möchte endlich wieder auf eine Feier, wo der Bär steppt.
 "	3	I'd like to meet my daughter.
 "Ich möchte endlich wieder auf eine Feier, wo der Bär steppt.
@@ -4752,7 +4752,7 @@ Line Number	Encoder Layer	Translation
 "Er hat dir einen Bären aufgebunden, denn das stimmt so nicht.
 "	0	in auric, in a ion
 "Er hat dir einen Bären aufgebunden, denn das stimmt so nicht.
-"	1	He has a B-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s-s
+"	1	He has a B-s-s-s-s-s-s-s-s-s-s-s-s
 "Er hat dir einen Bären aufgebunden, denn das stimmt so nicht.
 "	2	I have a Sie.
 "Er hat dir einen Bären aufgebunden, denn das stimmt so nicht.
@@ -4904,7 +4904,7 @@ Line Number	Encoder Layer	Translation
 "Das war gut gemeint, aber leider hast du mir damit einen Bärendienst erwiesen.
 "	1	I'm not a Sie hat, ich weiß nicht, was ich zu tun habe.
 "Das war gut gemeint, aber leider hast du mir damit einen Bärendienst erwiesen.
-"	2	I know what I' Sie ist.
+"	2	I know what I' Sie ist
 "Das war gut gemeint, aber leider hast du mir damit einen Bärendienst erwiesen.
 "	3	I know.
 "Das war gut gemeint, aber leider hast du mir damit einen Bärendienst erwiesen.
@@ -4950,7 +4950,7 @@ Line Number	Encoder Layer	Translation
 "Das war gut gemeint, aber leider hast du mir damit einen Bärendienst erwiesen.
 "	24	I mean, I meant well, but unfortunately, you did me a disservice.
 "Mit meiner Gesundheit geht es langsam wieder bergauf.
-"	0	It's like a simple fact that the same person is my own.I am. It's my own.I am. It's my own.
+"	0	It's like a simple fact that the same person is my own.I am. It's my own.I am. It
 "Mit meiner Gesundheit geht es langsam wieder bergauf.
 "	1	I'm going to my own place.
 "Mit meiner Gesundheit geht es langsam wieder bergauf.
@@ -5050,7 +5050,7 @@ Line Number	Encoder Layer	Translation
 "Endlich geht es in meinem Leben wieder bergauf.
 "	24	I'm finally getting my life back on track.
 "Ich glaube, wir sind endlich über den Berg.
-"	0	in a. in a. in a. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+"	0	in a. in a. in a. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 "Ich glaube, wir sind endlich über den Berg.
 "	1	I'm sure I have the work.
 "Ich glaube, wir sind endlich über den Berg.
@@ -5150,9 +5150,9 @@ Line Number	Encoder Layer	Translation
 "Martha scheint über den Berg zu sein, denn sie lächelt schon wieder.
 "	24	Martha seems to be over the mountain, because she's smiling again.
 "Wenn du das wirklich tust, dann fresse ich einen Besen.
-"	0	a-hand-on-e-re-re-re-re-re-re-re-re-re-re-re-re-re-re-re-re-re-re-re-re-re-re-
+"	0	a-hand-on-e-re-re-re-re-re-re-re-re-re-re-
 "Wenn du das wirklich tust, dann fresse ich einen Besen.
-"	1	If you want to see me, I'll show you a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-
+"	1	If you want to see me, I'll show you a-a-a-a-a-a-a-a-
 "Wenn du das wirklich tust, dann fresse ich einen Besen.
 "	2	I know.
 "Wenn du das wirklich tust, dann fresse ich einen Besen.
@@ -5202,7 +5202,7 @@ Line Number	Encoder Layer	Translation
 "Wenn er sich meldet, fresse ich einen Besen.
 "	0	a t-y, in a t-y-l-
 "Wenn er sich meldet, fresse ich einen Besen.
-"	1	If you want to see me, I'll show you a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-
+"	1	If you want to see me, I'll show you a-a-a-a-a-a-a-a-
 "Wenn er sich meldet, fresse ich einen Besen.
 "	2	I have a
 "Wenn er sich meldet, fresse ich einen Besen.
@@ -5250,7 +5250,7 @@ Line Number	Encoder Layer	Translation
 "Wenn er sich meldet, fresse ich einen Besen.
 "	24	If he calls, I'll eat a broom.
 "Er sagte ihr durch die Blume, dass er nicht interessiert war.
-"	0	in a fur fur, i e t e e e e e e e _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+"	0	in a fur fur, i e t e e e e e e e _ _ _ _ _ _ _ _ _ _ _ _ _
 "Er sagte ihr durch die Blume, dass er nicht interessiert war.
 "	1	He said he wasn't interested in me.
 "Er sagte ihr durch die Blume, dass er nicht interessiert war.
@@ -5450,7 +5450,7 @@ Line Number	Encoder Layer	Translation
 "Es kann nicht sein, dass ich schon wieder so blau bin.
 "	24	I can't be that blue again.
 "Jetzt haben wir den Salat!
-"	0	Now, have a now! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+"	0	Now, have a now! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
 "Jetzt haben wir den Salat!
 "	1	We have the tape!
 "Jetzt haben wir den Salat!
@@ -5506,7 +5506,7 @@ Line Number	Encoder Layer	Translation
 "Ich habe euch gewarnt, aber ihr wolltet ja nicht hören! Und jetzt haben wir den Salat.
 "	2	And now I have a - I! Und I!
 "Ich habe euch gewarnt, aber ihr wolltet ja nicht hören! Und jetzt haben wir den Salat.
-"	3	- I'm'lo-e-t'e-t' - e-t'i 'ee'e'z't'i 'ee'e 'ea'e 'ea'e 'ea'e 'ea 'e 'ea' e *Z' e *Z' e * 'e' wanɗ' e *' e *' e *' e *' e 'e' ta' e' *z habe ich heute eine Stunde wohl eine Rede 'e nur eine.
+"	3	- I'm'lo-e-t'e-t' - e-t'i 'ee'e'z
 "Ich habe euch gewarnt, aber ihr wolltet ja nicht hören! Und jetzt haben wir den Salat.
 "	4	I have warned you, but you have not heard! And now we have the Salat.
 "Ich habe euch gewarnt, aber ihr wolltet ja nicht hören! Und jetzt haben wir den Salat.
@@ -5600,7 +5600,7 @@ Line Number	Encoder Layer	Translation
 "Ich habe Blut und Wasser geschwitzt, als ich dir zugeschaut habe.
 "	24	I sweated blood and water when I looked at you.
 "Der neue Kollege war völlig überfordert und hat Blut und Wasser geschwitzt.
-"	0	Und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und.
+"	0	Und und und und und und und und und und und und und und und und und und und und und und und und und und und und
 "Der neue Kollege war völlig überfordert und hat Blut und Wasser geschwitzt.
 "	1	The was the new of the water and it was the it was the it and it was the it now.
 "Der neue Kollege war völlig überfordert und hat Blut und Wasser geschwitzt.
@@ -5702,7 +5702,7 @@ Line Number	Encoder Layer	Translation
 "Ich fühlte mich, als würde mir jemand den Boden unter den Füßen wegziehen.
 "	0	in a similar way. in a.
 "Ich fühlte mich, als würde mir jemand den Boden unter den Füßen wegziehen.
-"	1	I was going to the-the-the-the-the-the-to-means-to-be-me-to-now-a-a-a--ineineineineineineineineine.
+"	1	I was going to the-the-the-the-the-the-to-means-to-be-me-to
 "Ich fühlte mich, als würde mir jemand den Boden unter den Füßen wegziehen.
 "	2	I met -
 "Ich fühlte mich, als würde mir jemand den Boden unter den Füßen wegziehen.
@@ -5754,7 +5754,7 @@ Line Number	Encoder Layer	Translation
 "Die Gebäude wurden in wenigen Wochen aus dem Boden gestampft.
 "	1	The rooms are now open.
 "Die Gebäude wurden in wenigen Wochen aus dem Boden gestampft.
-"	2	- I Sieb­s.
+"	2	- I
 "Die Gebäude wurden in wenigen Wochen aus dem Boden gestampft.
 "	3	The-M-T.
 "Die Gebäude wurden in wenigen Wochen aus dem Boden gestampft.
@@ -6054,7 +6054,7 @@ Line Number	Encoder Layer	Translation
 "Du kannst nicht zwischen zwei Stühlen sitzen, sondern musst dich für eine Seite entscheiden.
 "	1	You don't have to sit down to the only one, but you have to sit down to the only one.
 "Du kannst nicht zwischen zwei Stühlen sitzen, sondern musst dich für eine Seite entscheiden.
-"	2	You can' Sch.
+"	2	You can' Sch
 "Du kannst nicht zwischen zwei Stühlen sitzen, sondern musst dich für eine Seite entscheiden.
 "	3	You can't have a-s.
 "Du kannst nicht zwischen zwei Stühlen sitzen, sondern musst dich für eine Seite entscheiden.
@@ -6150,7 +6150,7 @@ Line Number	Encoder Layer	Translation
 "Entscheide dich endlich. Du kannst nicht ewig zwischen zwei Stühlen sitzen.
 "	24	You can't sit between two chairs forever.
 "Ich wusste genau, wo der Hund begraben liegt.
-"	0	in a similar, in a t. in a _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+"	0	in a similar, in a t. in a _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 "Ich wusste genau, wo der Hund begraben liegt.
 "	1	I knew where I was.
 "Ich wusste genau, wo der Hund begraben liegt.
@@ -6252,7 +6252,7 @@ Line Number	Encoder Layer	Translation
 "Wenn du nicht mehr isst, wirst du vom Fleisch fallen.
 "	0	yourself, as a once.
 "Wenn du nicht mehr isst, wirst du vom Fleisch fallen.
-"	1	If you don't want to be a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a- now and you know what you want to be a-a
+"	1	If you don't want to be a-a-a-a-a-a-a-a-a-a-
 "Wenn du nicht mehr isst, wirst du vom Fleisch fallen.
 "	2	You' -
 "Wenn du nicht mehr isst, wirst du vom Fleisch fallen.
@@ -6302,7 +6302,7 @@ Line Number	Encoder Layer	Translation
 "Hast du gesehen, wie dünn Bianka ist? Sie fällt ja regelrecht vom Fleisch.
 "	0	in a, you? in a? a? a? a? a? a a? a
 "Hast du gesehen, wie dünn Bianka ist? Sie fällt ja regelrecht vom Fleisch.
-"	1	You know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know, you know,
+"	1	You know, you know, you know, you know, you know, you know, you know, you know, you know, you
 "Hast du gesehen, wie dünn Bianka ist? Sie fällt ja regelrecht vom Fleisch.
 "	2	You know what?
 "Hast du gesehen, wie dünn Bianka ist? Sie fällt ja regelrecht vom Fleisch.
@@ -6800,7 +6800,7 @@ Line Number	Encoder Layer	Translation
 "Du solltest ihn definitiv auf den Mond schießen.
 "	24	You should definitely shoot him to the moon.
 "Sie hatte genug von ihm und schoss ihn auf den Mond.
-"	0	und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und und.
+"	0	und und und und und und und und und und und und und und und und und und und und und und und und und und und und
 "Sie hatte genug von ihm und schoss ihn auf den Mond.
 "	1	She had him on the floor and the.
 "Sie hatte genug von ihm und schoss ihn auf den Mond.
@@ -6900,7 +6900,7 @@ Line Number	Encoder Layer	Translation
 "Er mochte es schon immer, aus der Reihe zu tanzen.
 "	24	He always liked to dance out of line.
 "Tanz doch nicht immer so aus der Reihe!
-"	0	Not so much!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+"	0	Not so much!!!!!!!!!!!!!!!!!!!!!!!!!
 "Tanz doch nicht immer so aus der Reihe!
 "	1	I'm not a fucking cop!
 "Tanz doch nicht immer so aus der Reihe!
@@ -7000,7 +7000,7 @@ Line Number	Encoder Layer	Translation
 "Sie wurde definitiv vom Storch ins Bein gebissen.
 "	24	She was definitely bitten in the leg by the stork.
 "Hat sie zugenommen oder wurde sie vom Storch ins Bein gebissen?
-"	0	Do you have a picture of the in your own language?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+"	0	Do you have a picture of the in your own language?????????????????
 "Hat sie zugenommen oder wurde sie vom Storch ins Bein gebissen?
 "	1	I've got a new one.
 "Hat sie zugenommen oder wurde sie vom Storch ins Bein gebissen?
@@ -7104,7 +7104,7 @@ Line Number	Encoder Layer	Translation
 "Erfolgreich wirst du, indem du fleißig wie eine Biene arbeitest.
 "	1	You will be working on a new job.
 "Erfolgreich wirst du, indem du fleißig wie eine Biene arbeitest.
-"	2	You' Sieb­bein­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
+"	2	You' Sieb­bein­­­­­­­­­­­­­­
 "Erfolgreich wirst du, indem du fleißig wie eine Biene arbeitest.
 "	3	You'll be a good, a girl.
 "Erfolgreich wirst du, indem du fleißig wie eine Biene arbeitest.
@@ -7250,11 +7250,11 @@ Line Number	Encoder Layer	Translation
 "Siehst du nicht, dass sie hässlich wie die Nacht ist?
 "	24	Can't you see she's ugly as night?
 "Die Polizei schnappte den Verbrecher in einer Nacht-und-Nebel-Aktion.
-"	0	The same-on-a-in-now-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a. in.
+"	0	The same-on-a-in-now-a-a-a-a-a-a-a-a-a
 "Die Polizei schnappte den Verbrecher in einer Nacht-und-Nebel-Aktion.
-"	1	The police in the police-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a- Sie haben Sie jetzt eine einzige eine Auszüben Sie
+"	1	The police in the police-a-a-a-a-a-a-a-a-a-a-a-
 "Die Polizei schnappte den Verbrecher in einer Nacht-und-Nebel-Aktion.
-"	2	- I- - I- - I Einein­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
+"	2	- I- - I- - I
 "Die Polizei schnappte den Verbrecher in einer Nacht-und-Nebel-Aktion.
 "	3	The-Storm.
 "Die Polizei schnappte den Verbrecher in einer Nacht-und-Nebel-Aktion.
@@ -7300,13 +7300,13 @@ Line Number	Encoder Layer	Translation
 "Die Polizei schnappte den Verbrecher in einer Nacht-und-Nebel-Aktion.
 "	24	The police caught the criminal in a night and fog operation.
 "Er floh in einer Nacht-und-Nebel-Aktion ins Ausland.
-"	0	A-n in-land-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a now.
+"	0	A-n in-land-a-a-a-a-a-a-a-a-a-a-a
 "Er floh in einer Nacht-und-Nebel-Aktion ins Ausland.
 "	1	He's a freshman now.
 "Er floh in einer Nacht-und-Nebel-Aktion ins Ausland.
 "	2	- And- - In a -
 "Er floh in einer Nacht-und-Nebel-Aktion ins Ausland.
-"	3	He was in a small town in a small town in a small town in a small town in a small town in a small town in a small town in a small town in a small town in a
+"	3	He was in a small town in a small town in a small town in a small town in a small town in a small town in a
 "Er floh in einer Nacht-und-Nebel-Aktion ins Ausland.
 "	4	He fled in a night-and-night-action in the country. 
 "Er floh in einer Nacht-und-Nebel-Aktion ins Ausland.
@@ -7404,7 +7404,7 @@ Line Number	Encoder Layer	Translation
 "Ich war feiern und habe mir die Nacht um die Ohren geschlagen.
 "	1	I was the one who had the oats and the oats.
 "Ich war feiern und habe mir die Nacht um die Ohren geschlagen.
-"	2	I was and I' Ich hab ich meine ich meine.
+"	2	I was and I' Ich hab ich meine ich
 "Ich war feiern und habe mir die Nacht um die Ohren geschlagen.
 "	3	I was a-
 "Ich war feiern und habe mir die Nacht um die Ohren geschlagen.
@@ -7452,7 +7452,7 @@ Line Number	Encoder Layer	Translation
 "Wenn das Kind in den Brunnen gefallen ist, kannst du nichts mehr machen.
 "	0	in a bit more in a fur fur.
 "Wenn das Kind in den Brunnen gefallen ist, kannst du nichts mehr machen.
-"	1	If you're not in the only one, you can't be a girl, you've got a fucking fucking fucking fucking fucking one.
+"	1	If you're not in the only one, you can't be a girl, you've got a fucking fucking fucking fucking fucking
 "Wenn das Kind in den Brunnen gefallen ist, kannst du nichts mehr machen.
 "	2	You can' - Sie.
 "Wenn das Kind in den Brunnen gefallen ist, kannst du nichts mehr machen.
@@ -7502,7 +7502,7 @@ Line Number	Encoder Layer	Translation
 "Warte nicht, bis das Kind in den Brunnen gefallen ist.
 "	0	in a similar way, in a more in a.
 "Warte nicht, bis das Kind in den Brunnen gefallen ist.
-"	1	Not the one that's in the only one's a's a's a's a's a's a's a's a's a's a's a's a's a's a's a's a's a's a's a's.
+"	1	Not the one that's in the only one's a's a's a's a's a's a
 "Warte nicht, bis das Kind in den Brunnen gefallen ist.
 "	2	- I - ist.
 "Warte nicht, bis das Kind in den Brunnen gefallen ist.
@@ -7700,11 +7700,11 @@ Line Number	Encoder Layer	Translation
 "Er war eine große Nummer im Geschäft.
 "	24	He was a big deal in the business.
 "Eines Tages will er auch eine große Nummer sein.
-"	0	E. E. E. E. E. E. E. E. E. E. E. E. E. E. E. E. E. E. E. E. E. E.
+"	0	E. E. E. E. E. E. E. E. E. E. E. E. E. E.
 "Eines Tages will er auch eine große Nummer sein.
 "	1	It's a nice to have a drink.
 "Eines Tages will er auch eine große Nummer sein.
-"	2	- I Nur
+"	2	- I
 "Eines Tages will er auch eine große Nummer sein.
 "	3	He's a really great guy.
 "Eines Tages will er auch eine große Nummer sein.
@@ -7802,7 +7802,7 @@ Line Number	Encoder Layer	Translation
 "Wenn alle Stricke reißen, wandere ich aus.
 "	0	in a mixer, in early in early.
 "Wenn alle Stricke reißen, wandere ich aus.
-"	1	If I'm not a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a- - I have a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a- now that I have a-a-a-a-a-
+"	1	If I'm not a-a-a-a-a-a-a-a-a-a-a-a
 "Wenn alle Stricke reißen, wandere ich aus.
 "	2	I'
 "Wenn alle Stricke reißen, wandere ich aus.
@@ -7956,7 +7956,7 @@ Line Number	Encoder Layer	Translation
 "Der Bauernladen war das Salz in der Suppe und machte den Ausflug besser.
 "	2	The's and made the's and the's' und' in der.
 "Der Bauernladen war das Salz in der Suppe und machte den Ausflug besser.
-"	3	I was a-t-i-t-i-i-t-i-t-i-i-t-i-i-t-t-t-t-t-in-a-t-an-a-a-a-t-t-t-an-a-a-t-a-t-an-a-t-an-a-t-an-a-t-an-a-t-an-a-an-an-a-an-an-a-an-an-a-an-an-an-a-an-an-an-a-an-an-a-an-an-an-a-
+"	3	I was a-t-i-t-i-i-t-i-t-i-i-t-i-
 "Der Bauernladen war das Salz in der Suppe und machte den Ausflug besser.
 "	4	The farm was the salt in the soup and made the trip better.
 "Der Bauernladen war das Salz in der Suppe und machte den Ausflug besser.
@@ -8004,7 +8004,7 @@ Line Number	Encoder Layer	Translation
 "Er lässt andere die Arbeit machen und setzt sich dann ins gemachte Nest.
 "	1	He's the one who's setting up the work and then.
 "Er lässt andere die Arbeit machen und setzt sich dann ins gemachte Nest.
-"	2	He's setting up and now's the Jetzt.
+"	2	He's setting up and now's the Jetzt
 "Er lässt andere die Arbeit machen und setzt sich dann ins gemachte Nest.
 "	3	He's the same.
 "Er lässt andere die Arbeit machen und setzt sich dann ins gemachte Nest.
@@ -8452,7 +8452,7 @@ Line Number	Encoder Layer	Translation
 "Das neue Lied meines Lieblingssängers ist so gut, ich habe jetzt schon einen Ohrwurm.
 "	0	I have a simple, I have a
 "Das neue Lied meines Lieblingssängers ist so gut, ich habe jetzt schon einen Ohrwurm.
-"	1	I'm going to have a nice, now, I'm a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a- now, I have a-a-a-a-a-
+"	1	I'm going to have a nice, now, I'm a-a-a-a-a-a-a-
 "Das neue Lied meines Lieblingssängers ist so gut, ich habe jetzt schon einen Ohrwurm.
 "	2	I' Ich habe jetzt eine
 "Das neue Lied meines Lieblingssängers ist so gut, ich habe jetzt schon einen Ohrwurm.
@@ -8654,7 +8654,7 @@ Line Number	Encoder Layer	Translation
 "Das Problem ist äußerst komplex. Daran haben sich schon viele die Zähne ausgebissen.
 "	1	The problem is complex.
 "Das Problem ist äußerst komplex. Daran haben sich schon viele die Zähne ausgebissen.
-"	2	It's a Sieb­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
+"	2	It's a Sieb­­­­­­­­­­
 "Das Problem ist äußerst komplex. Daran haben sich schon viele die Zähne ausgebissen.
 "	3	The is the same.
 "Das Problem ist äußerst komplex. Daran haben sich schon viele die Zähne ausgebissen.
@@ -8704,7 +8704,7 @@ Line Number	Encoder Layer	Translation
 "Die Sache war aussichtslos. Er fühlte sich, als würde er gegen Windmühlen kämpfen.
 "	1	The only thing that was not a problem was that it was a nice, to be a girl, to be a girl.
 "Die Sache war aussichtslos. Er fühlte sich, als würde er gegen Windmühlen kämpfen.
-"	2	He was as Er, as Er als Er ist als Er ist.
+"	2	He was as Er, as Er als Er
 "Die Sache war aussichtslos. Er fühlte sich, als würde er gegen Windmühlen kämpfen.
 "	3	He was a fine, was in a small-town.
 "Die Sache war aussichtslos. Er fühlte sich, als würde er gegen Windmühlen kämpfen.
@@ -8804,7 +8804,7 @@ Line Number	Encoder Layer	Translation
 "Wer in Aktien investiert, sollte nicht alles auf eine Karte setzen.
 "	1	I'd like to know what I'm doing.
 "Wer in Aktien investiert, sollte nicht alles auf eine Karte setzen.
-"	2	- I'd be a- Einein in einer in einer.
+"	2	- I'd be a-
 "Wer in Aktien investiert, sollte nicht alles auf eine Karte setzen.
 "	3	A.
 "Wer in Aktien investiert, sollte nicht alles auf eine Karte setzen.
@@ -8852,7 +8852,7 @@ Line Number	Encoder Layer	Translation
 "Du kannst nicht dein ganzes Leben riskieren und alles auf eine Karte setzen.
 "	0	You can't have an undesired in your mouth.
 "Du kannst nicht dein ganzes Leben riskieren und alles auf eine Karte setzen.
-"	1	You can't be the only one who's got a new and-and-not-now-now-now-and-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-now-
+"	1	You can't be the only one who's got a new and-and-not-now-now-now-and-
 "Du kannst nicht dein ganzes Leben riskieren und alles auf eine Karte setzen.
 "	2	You can' Und alles auf eine und nur und.
 "Du kannst nicht dein ganzes Leben riskieren und alles auf eine Karte setzen.
@@ -9002,7 +9002,7 @@ Line Number	Encoder Layer	Translation
 "Er ist im Vertrieb ja schon ein alter Hase.
 "	0	I'm sure you can. - Er. - I'm sure you can.
 "Er ist im Vertrieb ja schon ein alter Hase.
-"	1	He's a little bit of a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a- is he has a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-
+"	1	He's a little bit of a-a-a-a-a-a-a-a-a-a-a
 "Er ist im Vertrieb ja schon ein alter Hase.
 "	2	- I' -
 "Er ist im Vertrieb ja schon ein alter Hase.
@@ -9152,7 +9152,7 @@ Line Number	Encoder Layer	Translation
 "Ich weiß nicht, ob er wirklich auf so großem Fuß leben sollte.
 "	0	in a lot more so you are in your own.
 "Ich weiß nicht, ob er wirklich auf so großem Fuß leben sollte.
-"	1	I don't know, I'm not a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a- now is a-a-a-
+"	1	I don't know, I'm not a-a-a-a-a-a-a-a-a-
 "Ich weiß nicht, ob er wirklich auf so großem Fuß leben sollte.
 "	2	I know what I know.
 "Ich weiß nicht, ob er wirklich auf so großem Fuß leben sollte.
@@ -9250,7 +9250,7 @@ Line Number	Encoder Layer	Translation
 "Drück auf die Tube, wir müssen los!
 "	24	Push the tube, we have to go!
 "Wenn du nicht bald auf die Tube drückst, schaffen wir es nicht rechtzeitig.
-"	0	in a bit more, in a fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur
+"	0	in a bit more, in a fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur
 "Wenn du nicht bald auf die Tube drückst, schaffen wir es nicht rechtzeitig.
 "	1	If you're not going to the store, you're not going to the store.
 "Wenn du nicht bald auf die Tube drückst, schaffen wir es nicht rechtzeitig.
@@ -9300,7 +9300,7 @@ Line Number	Encoder Layer	Translation
 "Wenn du nicht bald auf die Tube drückst, schaffen wir es nicht rechtzeitig.
 "	24	If you don't press the tube soon, we won't make it in time.
 "Ich bin froh, dass er weg ist, denn er ging mir so auf den Geist.
-"	0	in a similar way, _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+"	0	in a similar way, _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 "Ich bin froh, dass er weg ist, denn er ging mir so auf den Geist.
 "	1	I'm going to the place where I'm at, is my now.
 "Ich bin froh, dass er weg ist, denn er ging mir so auf den Geist.
@@ -9350,7 +9350,7 @@ Line Number	Encoder Layer	Translation
 "Ich bin froh, dass er weg ist, denn er ging mir so auf den Geist.
 "	24	I'm glad he's gone, because he went so on my mind.
 "Sie ging ihm mit ihrer Fragerei gewaltig auf den Geist.
-"	0	He's a bit of a bit of a bit of a-t-tig-a-g-a-g-a-g-a-g- Sie hat.
+"	0	He's a bit of a bit of a bit of a-t-tig-a-g-a-g-a-
 "Sie ging ihm mit ihrer Fragerei gewaltig auf den Geist.
 "	1	She was going to the Frag on the.
 "Sie ging ihm mit ihrer Fragerei gewaltig auf den Geist.
@@ -9360,7 +9360,7 @@ Line Number	Encoder Layer	Translation
 "Sie ging ihm mit ihrer Fragerei gewaltig auf den Geist.
 "	4	She went with her to the spirit.
 "Sie ging ihm mit ihrer Fragerei gewaltig auf den Geist.
-"	5	She went with him to her quest, and she went with him to her quest, and she went with him to her quest, and she went with him to her quest, and she went with him to her quest, and she went with him to her quest, and she went with him to her quest, and she went with him to her quest, and she went with him to her quest.
+"	5	She went with him to her quest, and she went with him to her quest, and she went with him to her quest, and she
 "Sie ging ihm mit ihrer Fragerei gewaltig auf den Geist.
 "	6	She went to him with her questioning, very much to the spirit.
 "Sie ging ihm mit ihrer Fragerei gewaltig auf den Geist.
@@ -9456,7 +9456,7 @@ Line Number	Encoder Layer	Translation
 "Meine Mutter beschwert sich immer, dass sie uns alles aus der Nase ziehen muss.
 "	2	I- Sch Nur Nur
 "Meine Mutter beschwert sich immer, dass sie uns alles aus der Nase ziehen muss.
-"	3	My daughter-in-a-a-s-a-s-a-s-a-t-t-t-i-i-i-i-i-i-i-s is what she knows what she wants to know .
+"	3	My daughter-in-a-a-s-a-s-a-s-a-t-t-t-i
 "Meine Mutter beschwert sich immer, dass sie uns alles aus der Nase ziehen muss.
 "	4	My mother always says she has to take everything out of her mouth.
 "Meine Mutter beschwert sich immer, dass sie uns alles aus der Nase ziehen muss.
@@ -9502,7 +9502,7 @@ Line Number	Encoder Layer	Translation
 "Er macht heute blau und schwänzt die Schule.
 "	0	I am now on my own. today. is my own. today. is my own. is my own.
 "Er macht heute blau und schwänzt die Schule.
-"	1	He's got the money and the only thing to do is to go to the Jetzt ist die Schlange.
+"	1	He's got the money and the only thing to do is to go to the Jetzt ist die Schl
 "Er macht heute blau und schwänzt die Schule.
 "	2	And a Jetzt.
 "Er macht heute blau und schwänzt die Schule.
@@ -9700,9 +9700,9 @@ Line Number	Encoder Layer	Translation
 "Ich kann einfach nicht darüber hinwegkommen, dass sie mich hat abblitzen lassen.
 "	24	I just can't get over the fact that she dumped me.
 "Jetzt geht es ans Eingemachte!
-"	0	E-! now is a!e!e!e!e!e!e!e!e!e!e!e!e!e!e!e!e!e!e!e!e! !e!e!e!e! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+"	0	E-! now is a!e!e!e!e!e!e!e!e!e!e!e
 "Jetzt geht es ans Eingemachte!
-"	1	Now it is going to the fuckin' fuckin' fuckin' fuckin' fuckin' fuckin' fuckin' fuckin' fuckin' now!
+"	1	Now it is going to the fuckin' fuckin' fuckin' fuckin' fuckin' fuckin' fuckin' fuck
 "Jetzt geht es ans Eingemachte!
 "	2	- What?
 "Jetzt geht es ans Eingemachte!
@@ -9802,7 +9802,7 @@ Line Number	Encoder Layer	Translation
 "Nach dem Marathon pfiff sie aus dem letzten Loch.
 "	0	A. The now I have a simple. now.
 "Nach dem Marathon pfiff sie aus dem letzten Loch.
-"	1	I'm just trying to get a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-an- Sie ist jetzt noch noch noch noch noch noch noch eine Ab- und jetzt ist es noch noch noch noch noch.
+"	1	I'm just trying to get a-a-a-a-a-a-a-a-a-a-a
 "Nach dem Marathon pfiff sie aus dem letzten Loch.
 "	2	- What?
 "Nach dem Marathon pfiff sie aus dem letzten Loch.
@@ -9810,7 +9810,7 @@ Line Number	Encoder Layer	Translation
 "Nach dem Marathon pfiff sie aus dem letzten Loch.
 "	4	After the marathon, she went out of the last hole.
 "Nach dem Marathon pfiff sie aus dem letzten Loch.
-"	5	After the marathon, she pffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+"	5	After the marathon, she pffffffffffffffffffffffffffffffffffffffffff
 "Nach dem Marathon pfiff sie aus dem letzten Loch.
 "	6	After the marathon, she went out of the last hole.
 "Nach dem Marathon pfiff sie aus dem letzten Loch.
@@ -9854,7 +9854,7 @@ Line Number	Encoder Layer	Translation
 "Aufgrund der Wirtschaftskrise pfeifen viele Unternehmen aus dem letzten Loch.
 "	1	The same is the only way to the now.
 "Aufgrund der Wirtschaftskrise pfeifen viele Unternehmen aus dem letzten Loch.
-"	2	In the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in the in
+"	2	In the in the in the in the in the in the in the in the in the in the in the in the in the in the
 "Aufgrund der Wirtschaftskrise pfeifen viele Unternehmen aus dem letzten Loch.
 "	3	(­m) in the in the in the in the in the in the in the in the.
 "Aufgrund der Wirtschaftskrise pfeifen viele Unternehmen aus dem letzten Loch.
@@ -9954,7 +9954,7 @@ Line Number	Encoder Layer	Translation
 "Willst du wirklich die ganze Branche vor die Hunde gehen lassen?
 "	1	You want the whole thing?
 "Willst du wirklich die ganze Branche vor die Hunde gehen lassen?
-"	2	You wanna goin' a Nur mal einein Hier?
+"	2	You wanna goin' a
 "Willst du wirklich die ganze Branche vor die Hunde gehen lassen?
 "	3	You really wanna go to the?
 "Willst du wirklich die ganze Branche vor die Hunde gehen lassen?
@@ -10000,7 +10000,7 @@ Line Number	Encoder Layer	Translation
 "Willst du wirklich die ganze Branche vor die Hunde gehen lassen?
 "	24	You really want to let the whole industry go to the dogs?
 "Was, wenn die ganze Klasse vor die Hunde geht?
-"	0	in a fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur
+"	0	in a fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur
 "Was, wenn die ganze Klasse vor die Hunde geht?
 "	1	What's the food?
 "Was, wenn die ganze Klasse vor die Hunde geht?
@@ -10100,7 +10100,7 @@ Line Number	Encoder Layer	Translation
 "Roland nahm das Versagen ohne Weiteres auf seine Kappe.
 "	24	Roland took the fall for it.
 "Nach vier Gläsern Wein sah er wieder weiße Mäuse.
-"	0	G is displayed. G is displayed. G is displayed. G is displayed. G is displayed. G is displayed.
+"	0	G is displayed. G is displayed. G is displayed. G is displayed. G is displayed. G is display
 "Nach vier Gläsern Wein sah er wieder weiße Mäuse.
 "	1	He's a nice guy.
 "Nach vier Gläsern Wein sah er wieder weiße Mäuse.
@@ -10250,7 +10250,7 @@ Line Number	Encoder Layer	Translation
 "Die Journalistin schaffte es, dass die Künstlerin aus dem Nähkästchen plauderte.
 "	24	The journalist managed to get the artist to chat from the sewing box.
 "Vor ihr darfst du aber nicht aus dem Nähkästchen plaudern.
-"	0	I. Her. There is no. I. I. I. I. I. I. I. I. I. I. I. I. I. I. I. I.
+"	0	I. Her. There is no. I. I. I. I. I. I. I. I. I. I.
 "Vor ihr darfst du aber nicht aus dem Nähkästchen plaudern.
 "	1	You don't have to be in the same room as the dancers.
 "Vor ihr darfst du aber nicht aus dem Nähkästchen plaudern.
@@ -10350,7 +10350,7 @@ Line Number	Encoder Layer	Translation
 "Ich hasse ihn wie die Pest.
 "	24	I hate him like the plague.
 "Sein Benehmen bei der Hochzeit war unter aller Sau.
-"	0	It's a good place.                                                                                                                                             
+"	0	It's a good place.                     
 "Sein Benehmen bei der Hochzeit war unter aller Sau.
 "	1	It was the only place to be.
 "Sein Benehmen bei der Hochzeit war unter aller Sau.
@@ -10400,7 +10400,7 @@ Line Number	Encoder Layer	Translation
 "Sein Benehmen bei der Hochzeit war unter aller Sau.
 "	24	His behavior at the wedding was the worst.
 "Das Drehbuch für den Film war unter aller Sau.
-"	0	D. Dreaming is a.d. in your own.d. . . . . . . . . . . . . . . . . . . . . . . . . .
+"	0	D. Dreaming is a.d. in your own.d. . . . . . . . . . . . . .
 "Das Drehbuch für den Film war unter aller Sau.
 "	1	The film was under the film.
 "Das Drehbuch für den Film war unter aller Sau.
@@ -10454,7 +10454,7 @@ Line Number	Encoder Layer	Translation
 "Sie kann einfach nicht stillsitzen. Sie hat eine Menge Pfeffer im Hintern.
 "	1	You can't have a place to sit.
 "Sie kann einfach nicht stillsitzen. Sie hat eine Menge Pfeffer im Hintern.
-"	2	You can' Sie haben Sie eine.
+"	2	You can' Sie haben Sie eine
 "Sie kann einfach nicht stillsitzen. Sie hat eine Menge Pfeffer im Hintern.
 "	3	It's a nice little piece of a pie.
 "Sie kann einfach nicht stillsitzen. Sie hat eine Menge Pfeffer im Hintern.
@@ -10542,11 +10542,11 @@ Line Number	Encoder Layer	Translation
 "Sie tanzt temperamentvoll zu den brasilianischen Rhythmen. Sie hat ordentlich Pfeffer im Hintern.
 "	20	She dances to the Brazilian rhythms, she's got a lot of pepper in her ass.
 "Sie tanzt temperamentvoll zu den brasilianischen Rhythmen. Sie hat ordentlich Pfeffer im Hintern.
-"	21	She dances with a lot of temperament to the Brazilian rhythms, she's got a lot of pepper in her ass.
+"	21	She dances with a lot of temperament to the Brazilian rhythms, she's got a lot of pepper in her
 "Sie tanzt temperamentvoll zu den brasilianischen Rhythmen. Sie hat ordentlich Pfeffer im Hintern.
-"	22	She dances with a lot of temperament to the Brazilian rhythms, she's got a lot of pepper in her ass.
+"	22	She dances with a lot of temperament to the Brazilian rhythms, she's got a lot of pepper in her
 "Sie tanzt temperamentvoll zu den brasilianischen Rhythmen. Sie hat ordentlich Pfeffer im Hintern.
-"	23	She dances with a lot of energy to the Brazilian rhythm, and she's got a lot of pepper in her ass.
+"	23	She dances with a lot of energy to the Brazilian rhythm, and she's got a lot of pepper in her
 "Sie tanzt temperamentvoll zu den brasilianischen Rhythmen. Sie hat ordentlich Pfeffer im Hintern.
 "	24	She dances with a lot of temperament to the Brazilian rhythms.
 "Wir sollten unseren Horizont erweitern und über den Tellerrand hinausschauen.
@@ -10600,9 +10600,9 @@ Line Number	Encoder Layer	Translation
 "Wir sollten unseren Horizont erweitern und über den Tellerrand hinausschauen.
 "	24	We should broaden our horizons and look beyond the edge of the plate.
 "Er ist so engstirnig und weigert sich einfach, über den Tellerrand hinauszuschauen.
-"	0	in a-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur
+"	0	in a-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur-ur
 "Er ist so engstirnig und weigert sich einfach, über den Tellerrand hinauszuschauen.
-"	1	It's so easy to put on a single, and it's a single, and it's a single, and it's a single, and it's a single, and it's a single, and it's a single, now.
+"	1	It's so easy to put on a single, and it's a single, and it's a single, and it'
 "Er ist so engstirnig und weigert sich einfach, über den Tellerrand hinauszuschauen.
 "	2	It's just like that and out,­ Eine.
 "Er ist so engstirnig und weigert sich einfach, über den Tellerrand hinauszuschauen.
@@ -10650,11 +10650,11 @@ Line Number	Encoder Layer	Translation
 "Er ist so engstirnig und weigert sich einfach, über den Tellerrand hinauszuschauen.
 "	24	He's so narrow-minded and just refuses to look beyond the edge of the plate.
 "Unser Geschäft läuft nicht so erfolgreich wie geplant. Wir schreiben rote Zahlen.
-"	0	Unlike the previous example, the application is not un-of-a-s-a-s-a-s-a-s-a-a-s-a-s-a-s-a-s-
+"	0	Unlike the previous example, the application is not un-of-a-s-a-s-a-s-a-
 "Unser Geschäft läuft nicht so erfolgreich wie geplant. Wir schreiben rote Zahlen.
 "	1	Unser is not like that.
 "Unser Geschäft läuft nicht so erfolgreich wie geplant. Wir schreiben rote Zahlen.
-"	2	We' ist............
+"	2	We'
 "Unser Geschäft läuft nicht so erfolgreich wie geplant. Wir schreiben rote Zahlen.
 "	3	I'd like to see a good job.
 "Unser Geschäft läuft nicht so erfolgreich wie geplant. Wir schreiben rote Zahlen.
@@ -10750,7 +10750,7 @@ Line Number	Encoder Layer	Translation
 "Die Bank schreibt rote Zahlen und wird wohl bald in Konkurs gehen.
 "	24	The bank is in the red and will probably go bankrupt soon.
 "Nun lass mich schon abschreiben. Sei kein Frosch!
-"	0	I'm in!!!!!!! your your! !!!!!!!!!!!!!!!!!!!!!!! ! ! ! ! ! ! ! ! ! ! ! ! ! ! !
+"	0	I'm in!!!!!!! your your! !!!!!!!!
 "Nun lass mich schon abschreiben. Sei kein Frosch!
 "	1	Now, now, now!
 "Nun lass mich schon abschreiben. Sei kein Frosch!
@@ -10800,11 +10800,11 @@ Line Number	Encoder Layer	Translation
 "Nun lass mich schon abschreiben. Sei kein Frosch!
 "	24	Don't be such a frog.
 "Ach, mach doch bei dem Streich mit. Sei kein Frosch!
-"	0	in a. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+"	0	in a. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 "Ach, mach doch bei dem Streich mit. Sei kein Frosch!
 "	1	I'm not a girl!
 "Ach, mach doch bei dem Streich mit. Sei kein Frosch!
-"	2	- (!
+"	2	- (
 "Ach, mach doch bei dem Streich mit. Sei kein Frosch!
 "	3	- No,!
 "Ach, mach doch bei dem Streich mit. Sei kein Frosch!
@@ -10900,13 +10900,13 @@ Line Number	Encoder Layer	Translation
 "Halte deine Zunge im Zaum. Diese Geschichte geht niemanden etwas an.
 "	24	You're not supposed to tell me that.
 "Wir sind hier bei einer hochkarätigen Veranstaltung, also halte deine Zunge im Zaum.
-"	0	in a fur fur fur fur fur fur fur fur fur fur fur in fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur fur
+"	0	in a fur fur fur fur fur fur fur fur fur fur fur in fur fur fur fur fur fur fur fur fur fur fur fur fur fur
 "Wir sind hier bei einer hochkarätigen Veranstaltung, also halte deine Zunge im Zaum.
 "	1	We are a high-end company, so we've got a job in the U.
 "Wir sind hier bei einer hochkarätigen Veranstaltung, also halte deine Zunge im Zaum.
 "	2	We' So meine ich meine meine meine meine meine meine meine meine.
 "Wir sind hier bei einer hochkarätigen Veranstaltung, also halte deine Zunge im Zaum.
-"	3	- I'm a-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-
+"	3	- I'm a-la-la-la-la-la-la-la-la-la-la-la-
 "Wir sind hier bei einer hochkarätigen Veranstaltung, also halte deine Zunge im Zaum.
 "	4	We're here at a high-class event, so keep your tongue in the air.
 "Wir sind hier bei einer hochkarätigen Veranstaltung, also halte deine Zunge im Zaum.
@@ -11004,7 +11004,7 @@ Line Number	Encoder Layer	Translation
 "Das ist eine Notlage. Da kannst du dir ausnahmsweise mal nicht die Rosinen aus dem Kuchen picken.
 "	1	You can't take the only one.
 "Das ist eine Notlage. Da kannst du dir ausnahmsweise mal nicht die Rosinen aus dem Kuchen picken.
-"	2	You can' - - - - Sieg - Sieg - Sieg - mal aus der Sch -
+"	2	You can' - - - - Sieg - Sieg - Sieg - mal aus der
 "Das ist eine Notlage. Da kannst du dir ausnahmsweise mal nicht die Rosinen aus dem Kuchen picken.
 "	3	It's not a bad idea.
 "Das ist eine Notlage. Da kannst du dir ausnahmsweise mal nicht die Rosinen aus dem Kuchen picken.
@@ -11054,7 +11054,7 @@ Line Number	Encoder Layer	Translation
 "Tu nicht so unschuldig. Du hast doch auch keine weiße Weste.
 "	1	You don't have to be.
 "Tu nicht so unschuldig. Du hast doch auch keine weiße Weste.
-"	2	You have a Sie ist doch nicht.
+"	2	You have a
 "Tu nicht so unschuldig. Du hast doch auch keine weiße Weste.
 "	3	You're not my daughter.
 "Tu nicht so unschuldig. Du hast doch auch keine weiße Weste.
@@ -11150,11 +11150,11 @@ Line Number	Encoder Layer	Translation
 "Dieses Amt kann man nur ausüben, wenn man eine weiße Weste hat.
 "	24	The only way to hold this office is to have a white vest.
 "Wir haben schon alles Mögliche probiert, um die Krankheit zu heilen. Dagegen ist kein Kraut gewachsen.
-"	0	in a similar way, in a once more in a once more _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+"	0	in a similar way, in a once more in a once more _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 "Wir haben schon alles Mögliche probiert, um die Krankheit zu heilen. Dagegen ist kein Kraut gewachsen.
 "	1	We have all the money in the world.
 "Wir haben schon alles Mögliche probiert, um die Krankheit zu heilen. Dagegen ist kein Kraut gewachsen.
-"	2	We have a Eine.
+"	2	We have a
 "Wir haben schon alles Mögliche probiert, um die Krankheit zu heilen. Dagegen ist kein Kraut gewachsen.
 "	3	We've got a new job.
 "Wir haben schon alles Mögliche probiert, um die Krankheit zu heilen. Dagegen ist kein Kraut gewachsen.
@@ -11200,7 +11200,7 @@ Line Number	Encoder Layer	Translation
 "Wir haben schon alles Mögliche probiert, um die Krankheit zu heilen. Dagegen ist kein Kraut gewachsen.
 "	24	We've tried everything we can to cure the disease, and nothing has worked.
 "In dieser Sache ist nichts zu machen. Dagegen ist kein Kraut gewachsen.
-"	0	In fact, it's a bit like it. - In fact, I find it very easy to use In it's a simple fact.
+"	0	In fact, it's a bit like it. - In fact, I find it very easy to use In it's a simple
 "In dieser Sache ist nichts zu machen. Dagegen ist kein Kraut gewachsen.
 "	1	In this is not a thing to be.
 "In dieser Sache ist nichts zu machen. Dagegen ist kein Kraut gewachsen.
@@ -11302,7 +11302,7 @@ Line Number	Encoder Layer	Translation
 "Ich habe mir im Urlaub eine Malariainfektion eingefangen und muss das Bett hüten.
 "	0	A form of the same name. - a. und a. und a. und a. und a. und a.
 "Ich habe mir im Urlaub eine Malariainfektion eingefangen und muss das Bett hüten.
-"	1	I have to have a Malaria and I have to have a I have to have a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's a I's now.
+"	1	I have to have a Malaria and I have to have a I have to have a I's a I's a I'
 "Ich habe mir im Urlaub eine Malariainfektion eingefangen und muss das Bett hüten.
 "	2	I have to have a and I' und und nur.
 "Ich habe mir im Urlaub eine Malariainfektion eingefangen und muss das Bett hüten.
@@ -11312,7 +11312,7 @@ Line Number	Encoder Layer	Translation
 "Ich habe mir im Urlaub eine Malariainfektion eingefangen und muss das Bett hüten.
 "	5	I've got a malarial infection in my room and I've got to get the bed.
 "Ich habe mir im Urlaub eine Malariainfektion eingefangen und muss das Bett hüten.
-"	6	I've been on a holiday, and I've got a malaria infection and I've got to take care of the bed.
+"	6	I've been on a holiday, and I've got a malaria infection and I've got to take care of the bed
 "Ich habe mir im Urlaub eine Malariainfektion eingefangen und muss das Bett hüten.
 "	7	I caught a malaria infection in the holiday and have to take care of the bed.
 "Ich habe mir im Urlaub eine Malariainfektion eingefangen und muss das Bett hüten.
@@ -11354,7 +11354,7 @@ Line Number	Encoder Layer	Translation
 "Das Kind hat sich im Kindergarten mit einem Virus angesteckt und muss das Bett hüten.
 "	1	I have a new job.
 "Das Kind hat sich im Kindergarten mit einem Virus angesteckt und muss das Bett hüten.
-"	2	And has to Und hat eine Sch Und ist das.
+"	2	And has to Und hat eine Sch Und ist das
 "Das Kind hat sich im Kindergarten mit einem Virus angesteckt und muss das Bett hüten.
 "	3	The Das ist einziger.
 "Das Kind hat sich im Kindergarten mit einem Virus angesteckt und muss das Bett hüten.
@@ -11606,7 +11606,7 @@ Line Number	Encoder Layer	Translation
 "Sie machten drei Kreuze als das Verhör endlich vorbei war.
 "	2	I was a- Sie war...
 "Sie machten drei Kreuze als das Verhör endlich vorbei war.
-"	3	They were in a-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-t-of-of-t-of-of-t-of
+"	3	They were in a-t-of-t-of-t-of-t-of-t-of-t-of
 "Sie machten drei Kreuze als das Verhör endlich vorbei war.
 "	4	They made three crosses as the one that was over.
 "Sie machten drei Kreuze als das Verhör endlich vorbei war.
@@ -11652,11 +11652,11 @@ Line Number	Encoder Layer	Translation
 "Die alte Dame sitzt Tag für Tag am Fenster und passt auf wie ein Schießhund, dass ihr nichts entgeht.
 "	0	in your own, in your own way, in your own, in your own,
 "Die alte Dame sitzt Tag für Tag am Fenster und passt auf wie ein Schießhund, dass ihr nichts entgeht.
-"	1	The old lady's got a new pair of panties on her fingers and she's a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-now.
+"	1	The old lady's got a new pair of panties on her fingers and she's a-a-a-a-
 "Die alte Dame sitzt Tag für Tag am Fenster und passt auf wie ein Schießhund, dass ihr nichts entgeht.
 "	2	- Undas Undas Jetzt auf und als Jetzt und ich habe ich.
 "Die alte Dame sitzt Tag für Tag am Fenster und passt auf wie ein Schießhund, dass ihr nichts entgeht.
-"	3	It's a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a
+"	3	It's a-a-a-a-a-a-a-a-a-a-a-a-a
 "Die alte Dame sitzt Tag für Tag am Fenster und passt auf wie ein Schießhund, dass ihr nichts entgeht.
 "	4	The old lady sits day after day at the window and looks like a little girl who's not going anywhere.
 "Die alte Dame sitzt Tag für Tag am Fenster und passt auf wie ein Schießhund, dass ihr nichts entgeht.
@@ -11704,9 +11704,9 @@ Line Number	Encoder Layer	Translation
 "Bei dem Hütchenspieler musst du aufpassen wie ein Schießhund, sonst zieht er dich über den Tisch.
 "	1	You have to go to theaters, you have to go to theaters.
 "Bei dem Hütchenspieler musst du aufpassen wie ein Schießhund, sonst zieht er dich über den Tisch.
-"	2	You' Sch Sieht' Ihr, in in Ihr Ihr Ihr Ihr.
+"	2	You' Sch Sieht' Ihr, in in
 "Bei dem Hütchenspieler musst du aufpassen wie ein Schießhund, sonst zieht er dich über den Tisch.
-"	3	You'e's-t'e's, Tischs-tischs-tischs-tischs-tischs-tischs-tischs.
+"	3	You'e's-t'e's, Tischs-tischs-tischs-tisch
 "Bei dem Hütchenspieler musst du aufpassen wie ein Schießhund, sonst zieht er dich über den Tisch.
 "	4	With the player, you have to watch out like a dog, otherwise he'll take you over the table.
 "Bei dem Hütchenspieler musst du aufpassen wie ein Schießhund, sonst zieht er dich über den Tisch.
@@ -11754,7 +11754,7 @@ Line Number	Encoder Layer	Translation
 "Nachdem er sich von seiner Frau getrennt hatte, war er nur noch ein Häufchen Elend.
 "	1	He was just a nice guy.
 "Nachdem er sich von seiner Frau getrennt hatte, war er nur noch ein Häufchen Elend.
-"	2	As a Sie war er noch mal eine Frau war er noch malin, seiner Frau.
+"	2	As a Sie war er noch mal eine Frau war er noch malin,
 "Nachdem er sich von seiner Frau getrennt hatte, war er nur noch ein Häufchen Elend.
 "	3	He was in a beautiful lake.
 "Nachdem er sich von seiner Frau getrennt hatte, war er nur noch ein Häufchen Elend.
@@ -11802,13 +11802,13 @@ Line Number	Encoder Layer	Translation
 "Das Kind saß nach der Zeugnisvergabe wie ein Häufchen Elend auf der Treppe und traute sich nicht rein.
 "	0	The patient is not aware of the fact that the patient has a problem with his/her foot.
 "Das Kind saß nach der Zeugnisvergabe wie ein Häufchen Elend auf der Treppe und traute sich nicht rein.
-"	1	The only way to get a drink of that is now and have a drink of your und auf der ist.
+"	1	The only way to get a drink of that is now and have a drink of your
 "Das Kind saß nach der Zeugnisvergabe wie ein Häufchen Elend auf der Treppe und traute sich nicht rein.
-"	2	And a Auf der und in der und in der und in der und in der,­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
+"	2	And a Auf der und in der und in der und in der
 "Das Kind saß nach der Zeugnisvergabe wie ein Häufchen Elend auf der Treppe und traute sich nicht rein.
-"	3	The only child in a small-to-one-scen-shanbe-n in a child-shanbe-n in a
+"	3	The only child in a small-to-one-scen-shanbe-n in a child-shanbe-n
 "Das Kind saß nach der Zeugnisvergabe wie ein Häufchen Elend auf der Treppe und traute sich nicht rein.
-"	4	The child was sitting on the floor, looking at the child, and the child was sitting on the floor, looking at the child, and the child was sitting on the child's bed, looking at the child, and the child was sitting on the child's bed.
+"	4	The child was sitting on the floor, looking at the child, and the child was sitting on the floor, looking at the child, and
 "Das Kind saß nach der Zeugnisvergabe wie ein Häufchen Elend auf der Treppe und traute sich nicht rein.
 "	5	The child was sitting after the witnessing as a little Elend on the grass and did not trust himself. 
 "Das Kind saß nach der Zeugnisvergabe wie ein Häufchen Elend auf der Treppe und traute sich nicht rein.
@@ -12008,7 +12008,7 @@ Line Number	Encoder Layer	Translation
 "Die Menschen in diesem Land fahren aber auch wie gesengte Säue.
 "	3	The's.
 "Die Menschen in diesem Land fahren aber auch wie gesengte Säue.
-"	4	The people in this country are also like the people who are driving like the people who are driving like the people who are driving like the people who are driving like the people who are driving like the people who are driving like the people who are driving like the people who are driving like the people who are driving like the people who are driving like the people who are driving like the people who are driving like the people who are driving.
+"	4	The people in this country are also like the people who are driving like the people who are driving like the people who are driving like the people
 "Die Menschen in diesem Land fahren aber auch wie gesengte Säue.
 "	5	The people in this country are also like the people who are walking around like a sauna.
 "Die Menschen in diesem Land fahren aber auch wie gesengte Säue.
@@ -12050,7 +12050,7 @@ Line Number	Encoder Layer	Translation
 "Die Menschen in diesem Land fahren aber auch wie gesengte Säue.
 "	24	People in this country drive like pigs.
 "Mit seinem Startup hat er sich eine goldene Nase verdient.
-"	0	Around his name, he had a-a-a-a-a-a-a-a-a-a-a-a-a-a-a-a.
+"	0	Around his name, he had a-a-a-a-a-a-a-a-a-a-a
 "Mit seinem Startup hat er sich eine goldene Nase verdient.
 "	1	He has a new job.
 "Mit seinem Startup hat er sich eine goldene Nase verdient.
@@ -12204,7 +12204,7 @@ Line Number	Encoder Layer	Translation
 "Diese Investition sollten wir für nächstes Jahr ins Auge fassen.
 "	1	We should do this for Auge.
 "Diese Investition sollten wir für nächstes Jahr ins Auge fassen.
-"	2	We' Im nächsten­
+"	2	We' Im nächsten
 "Diese Investition sollten wir für nächstes Jahr ins Auge fassen.
 "	3	The-
 "Diese Investition sollten wir für nächstes Jahr ins Auge fassen.
@@ -12449,7 +12449,7 @@ Line Number	Encoder Layer	Translation
 "	23	So this is my birthday surprise?
 "Das soll also meine Geburtstagsüberraschung sein? Ach du grüne Neune.
 "	24	So this is my birthday surprise?
-Mach doch nicht so einen krummen Rücken. Du sitzt da wie ein Affe auf dem Schleifstein.	0	Not your own, so take a look at your own self-repaired online at your own self-repaired. not your own self-repaired.
+Mach doch nicht so einen krummen Rücken. Du sitzt da wie ein Affe auf dem Schleifstein.	0	Not your own, so take a look at your own self-repaired online at your own self-repaired. not your
 Mach doch nicht so einen krummen Rücken. Du sitzt da wie ein Affe auf dem Schleifstein.	1	Not a single. You sit on the.
 Mach doch nicht so einen krummen Rücken. Du sitzt da wie ein Affe auf dem Schleifstein.	2	You' Sie da.
 Mach doch nicht so einen krummen Rücken. Du sitzt da wie ein Affe auf dem Schleifstein.	3	You'd be there.
