@@ -1,0 +1,16 @@
+# News Commentary Russian text uses a .ru suffix. Linguist treats *.ru as
+# Ruby, which is why GitHub reported this data repository as Ruby.
+*.ru linguist-detectable=false
+*.ru linguist-language=Text
+
+# Evaluation data, not source code. Keeping it out of the language
+# statistics leaves the Python under scripts/ as the detected language.
+dataset/** linguist-vendored
+comet_scores/** linguist-vendored
+decoderlens/** linguist-vendored
+transcriptions/** linguist-vendored
+translations/** linguist-vendored
+plots/** linguist-vendored
+*.xlsx linguist-vendored
+*.tsv linguist-vendored
+*.png linguist-vendored

@@ -1,0 +1,30 @@
+# Pins are a set that installs together with unbabel-comet==2.2.7.
+# That release requires numpy<2, transformers<5, huggingface-hub<1,
+# protobuf<5, and torchmetrics<0.11. Newer major versions of those
+# libraries exist and will break COMET, so they are intentionally not used.
+#
+# Torch from PyPI is a large wheel. For a CPU-only machine, install torch
+# first from the CPU index, then install this file:
+#   pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements.txt
+
+# Tables, plots, and the COMET I/O check (no model download).
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.10.9
+openpyxl==3.1.5
+
+# COMET scoring. The paper uses Unbabel/wmt22-comet-da.
+unbabel-comet==2.2.7
+torch==2.5.1
+transformers==4.48.3
+huggingface-hub==0.26.5
+protobuf==4.25.9
+pytorch-lightning==2.5.6
+sentencepiece==0.2.0
+
+# Speech-to-text and machine-translation stages (see the placeholders in scripts/).
+accelerate==1.2.1
+soundfile==0.12.1
+sacrebleu==2.5.1
+tqdm==4.67.1
